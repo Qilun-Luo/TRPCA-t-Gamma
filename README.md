@@ -10,6 +10,7 @@ Cai, S.; Luo, Q.; Yang, M.; Li, W.; Xiao, M. Tensor Robust Principal Component A
   - Berkeley Segmentation Dataset (BSD)
   - four color videos: Hall, MovedObject, Escalator and Lobby
   - parts of ChangeDetection.net(CDNet) dataset2014
+- `utils` includes some utilities scripts
 
 ## Files
 - `test_Image_Recovery` is the script for image recovery on BSD;
