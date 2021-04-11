@@ -26,7 +26,7 @@ Here are some results from the proposed method only.
     <img src="results/in000900.jpg" width="230" /><figcaption>Album</figcaption>
  </figure>
   <p float="left">
-    <img src="results/in000900.jpg" width="230" />
+    <img src="results/in000900.jpg" width="230" /><em>image_caption</em>
     <img src="results/gt000900.png" width="230" /> 
     <img src="results/bin000900.jpg" width="230" />
   </p>
