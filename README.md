@@ -16,3 +16,6 @@ Cai, S.; Luo, Q.; Yang, M.; Li, W.; Xiao, M. Tensor Robust Principal Component A
 - `test_Image_Recovery` is the script for image recovery on BSD;
 - `test_BM_Qualitative` is the script for background modeling on four surveillance videos;
 - `test_BM_Quantitative` is the script for background segmentation on parts of CDNet dataset2014
+
+## Partial Results 
+Here are some results with the proposed method only. 
