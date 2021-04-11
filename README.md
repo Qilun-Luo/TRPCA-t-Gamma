@@ -22,16 +22,5 @@ Here are some results from the proposed method only.
 - #### Image Recovery
   ![Image recovery result](https://github.com/Qilun-Luo/TRPCA-t-Gamma/blob/main/results/result_sample_img_recovery.png)
 - #### Background Modeling on CDNet dataset2014
- <!---  [Original](results/in000900.jpg "Original") ![Ground truth](results/gt000900.png "Ground truth") ![t-Gamma](results/bin000900.jpg "t-Gamma") --->
- <table width="20%">
-  <tr>
-    <td>Original</td>
-     <td>Ground truth</td>
-     <td>t-Gamma</td>
-  </tr>
-  <tr>
-    <td><img src="results/in000900.jpg"></td>
-    <td><img src="results/gt000900.png"></td>
-    <td><img src="results/bin000900.jpg" ></td>
-  </tr>
- </table>
+ [Original](results/in000900.jpg "Original") ![Ground truth](results/gt000900.png "Ground truth") ![t-Gamma](results/bin000900.jpg "t-Gamma") 
+
