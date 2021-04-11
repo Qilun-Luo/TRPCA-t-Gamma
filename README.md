@@ -25,6 +25,7 @@ Here are some results from the proposed method only.
  <!---  [Original](results/in000900.jpg "Original") ![Ground truth](results/gt000900.png "Ground truth") ![t-Gamma](results/bin000900.jpg "t-Gamma") --->
  <p float="center">
   <img src="results/in000900.jpg" width="20%" />
+  <figcaption>Optional title</figcaption>
   <img src="results/gt000900.png" width="20%" /> 
   <img src="results/bin000900.jpg" width="20%" />
 </p>
