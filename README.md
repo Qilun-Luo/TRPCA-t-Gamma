@@ -20,5 +20,5 @@ Cai, S.; Luo, Q.; Yang, M.; Li, W.; Xiao, M. Tensor Robust Principal Component A
 ## Partial Results 
 Here are some results from the proposed method only. 
 - #### Image Recovery
-  
+  ![Image recovery result]()
 - 
