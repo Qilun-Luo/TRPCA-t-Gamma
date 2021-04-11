@@ -22,14 +22,10 @@ Here are some results from the proposed method only.
 - #### Image Recovery
   ![Image recovery result](https://github.com/Qilun-Luo/TRPCA-t-Gamma/blob/main/results/result_sample_img_recovery.png)
 - #### Background Modeling on CDNet dataset2014
- <figure class="image">
-    <img src="results/in000900.jpg" width="230" /><figcaption>Album</figcaption>
-  <img src="results/in000900.jpg" width="230" /><figcaption>Album</figcaption>
-  <img src="results/in000900.jpg" width="230" /><figcaption>Album</figcaption>
- </figure>
   <p float="left">
     <img src="results/in000900.jpg" width="230" />
     <img src="results/gt000900.png" width="230" /> 
     <img src="results/bin000900.jpg" width="230" />
   </p>
+  From left to right are the Original, Ground truth Background and Result from t-Gamma.
 
