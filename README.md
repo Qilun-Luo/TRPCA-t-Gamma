@@ -23,8 +23,8 @@ Here are some results from the proposed method only.
   ![Image recovery result](https://github.com/Qilun-Luo/TRPCA-t-Gamma/blob/main/results/result_sample_img_recovery.png)
 - #### Background Modeling on CDNet dataset2014
  <!---  [Original](results/in000900.jpg "Original") ![Ground truth](results/gt000900.png "Ground truth") ![t-Gamma](results/bin000900.jpg "t-Gamma") --->
- <p float="left">
-  <img src="results/in000900.jpg" width="15%" />
-  <img src="results/gt000900.png" width="15%" /> 
-  <img src="results/bin000900.jpg" width="15%" />
+ <p float="center">
+  <img src="results/in000900.jpg" width="25%" />
+  <img src="results/gt000900.png" width="25%" /> 
+  <img src="results/bin000900.jpg" width="25%" />
 </p>
