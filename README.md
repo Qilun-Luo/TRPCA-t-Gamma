@@ -27,5 +27,5 @@ Here are some results from the proposed method only.
     <img src="results/gt000900.png" width="230" /> 
     <img src="results/bin000900.jpg" width="230" />
   </p>
-  From left to right are the Original, Ground truth Background and Result from t-Gamma.
+  From left to right are the original, ground truth background and result from t-Gamma.
 
