@@ -24,6 +24,8 @@ Here are some results from the proposed method only.
 - #### Background Modeling on CDNet dataset2014
  <figure class="image">
     <img src="results/in000900.jpg" width="230" /><figcaption>Album</figcaption>
+  <img src="results/in000900.jpg" width="230" /><figcaption>Album</figcaption>
+  <img src="results/in000900.jpg" width="230" /><figcaption>Album</figcaption>
  </figure>
   <p float="left">
     <img src="results/in000900.jpg" width="230" /><em>image_caption</em>
