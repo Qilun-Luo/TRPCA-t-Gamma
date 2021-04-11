@@ -18,4 +18,7 @@ Cai, S.; Luo, Q.; Yang, M.; Li, W.; Xiao, M. Tensor Robust Principal Component A
 - `test_BM_Quantitative` is the script for background segmentation on parts of CDNet dataset2014
 
 ## Partial Results 
-Here are some results with the proposed method only. 
+Here are some results from the proposed method only. 
+- #### Image Recovery
+  
+- 
