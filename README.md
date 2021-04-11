@@ -24,7 +24,7 @@ Here are some results from the proposed method only.
 - #### Background Modeling on CDNet dataset2014
  ![Original](results/in000900.jpg "Original"){:height="50%" width="50%"}
  
- [Ground truth](results/gt000900.png "Ground truth") 
+ ![Ground truth](results/gt000900.png "Ground truth") 
  
  ![t-Gamma](results/bin000900.jpg "t-Gamma") 
 
